@@ -180,7 +180,7 @@
     top: 50px;
 }
 
-.sec-4 .Spacial-promotion-main{
+.sec-4 .Spacial-promotion-main {
     width: 1521px;
     height: 574px;
     padding: 100px;
@@ -194,7 +194,7 @@
 
 .sec-4 .special-btn {
     border-radius: 10px;
-    border: 2px solid white ;
+    border: 2px solid white;
     width: 154px;
     height: 40px;
     background-color: #211C24;
@@ -202,18 +202,107 @@
     text-align: center;
     margin-top: 40px;
 }
-.sec-4 .special-1{
+
+.sec-4 .special-1 {
     margin-top: 100px;
 }
-.sec-4 .special-2{
-    width: 380px;
-    height: 700px;
-    
-}
-.sec-4 .special-img{
-width: 100%;
-height: 100%;
-object-fit: contain;
-overflow: clip;
 
+.sec-4 .special-2 {
+    position: relative;
+
+    width: 600px;
+    height: 440px;
+
+}
+
+.sec-4 .special-img {
+    width: 100%;
+    height: 100%;
+
+}
+
+.sec-5 .Feedback-1 {
+    padding: 10px;
+    width: 434px;
+    height: 270px;
+    box-shadow: rgb(223, 222, 222) 5px 5px 5px;
+}
+
+.sec-5 .Feedback-2 {
+    padding: 10px;
+    width: 434px;
+    height: 270px;
+    background-color: #E075757A;
+    box-shadow: rgb(223, 222, 222) 5px 5px 5px;
+}
+
+.sec-5 .Feedback-3 {
+    padding: 10px;
+    width: 434px;
+    height: 270px;
+    box-shadow: rgb(223, 222, 222) 5px 5px 5px;
+}
+
+.sec-5 .Feed-main {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.sec-6 {
+    margin-top: 170px;
+    margin-left: 100px;
+}
+
+.sec-6 .product-1 {
+
+    width: 300px;
+    height: 500px;
+    padding: 40px;
+
+}
+
+.sec-6 img {
+    width: 100%;
+    height: 50%;
+}
+
+.sec-6 .Products-display p {
+    color: gray;
+}
+
+.sec-6 .product-btn {
+    border-radius: 10px;
+    border: 2px solid black;
+    width: 154px;
+    height: 40px;
+    background-color: white;
+    color: black;
+    text-align: center;
+    margin-top: 40px;
+    position: relative;
+    left: 12%;
+}
+
+.sec-6 .Products-display {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 70px;
+}
+
+#pro-h5 {
+    color: white;
+}
+
+.product-btn-special{
+ border-radius: 10px;
+    border: 2px solid white;
+    width: 154px;
+    height: 40px;
+    background-color: #2C2C2C;
+    color: white;
+    text-align: center;
+    margin-top: 40px;
+    position: relative;
+    left: 12%;
 }

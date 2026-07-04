@@ -1,0 +1,46 @@
+
+footer{
+    background-color: #DB4444;
+    padding: 100px;
+    color: white;
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+}
+
+footer input{
+    border: white;
+    padding: 10px;
+}
+.ficon-1{
+position: relative;
+bottom: 35px;
+left: 160px;
+color: black;
+font-size: 20px;
+}
+footer .Exclusive{
+    width: 217px;
+
+}
+.support{
+    width: 175px;
+    height: 180px;
+}
+.foo-img2{
+    width: 210px;
+    height: 230px;
+    position: relative;
+    bottom: 215px;
+    left: 122px;
+    
+}
+.foo-img3{
+    height: 180px;
+    width: 190px;
+    position: relative;
+    bottom: 350px;
+    left: 133px;
+    
+}
