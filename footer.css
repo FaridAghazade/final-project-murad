@@ -1,12 +1,20 @@
-
-footer{
+body {
+    margin: 0;
+    overflow-x: hidden;
+}
+footer{ 
     background-color: #DB4444;
-    padding: 100px;
+    padding: 50px;
     color: white;
-    margin-top: 40px;
-    display: flex;
-    justify-content: space-between;
-    align-items: start;
+   margin-top: 20px;
+    height: 360px;
+
+}
+.fo-main-display{
+display: flex;
+justify-content: space-between;
+ border-bottom: 2px solid lightgray;
+
 }
 
 footer input{
@@ -15,32 +23,78 @@ footer input{
 }
 .ficon-1{
 position: relative;
-bottom: 35px;
-left: 160px;
+right: 40px;
 color: black;
 font-size: 20px;
 }
-footer .Exclusive{
-    width: 217px;
+
+.footer-img1{
+   height: 70px;
+   margin-top: 10px;
+   width: 80px;
+}
+.footer-img2{
+   height: 125px;
+   width: 120px;
+  
 
 }
-.support{
-    width: 175px;
-    height: 180px;
+.footer-img3{
+   height: 105px;
+   width: 110px;
+   padding: 0;
+   margin: 0;
 }
-.foo-img2{
-    width: 210px;
-    height: 230px;
-    position: relative;
-    bottom: 215px;
-    left: 122px;
+
+.small-img-container{
+  
+    width: 115px;
+    height: 78px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
     
+ 
 }
-.foo-img3{
-    height: 180px;
-    width: 190px;
-    position: relative;
-    bottom: 350px;
-    left: 133px;
-    
+.re{
+
+    width: 115px;
+    height: 68px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    margin-top: 6px;
 }
+.mcon{
+    display: flex;
+   
+    height: 80px;
+    align-items: center;
+}
+.save{
+    margin-bottom: 0;
+}
+.fo-icons{
+   display: flex;
+   justify-content: space-between;
+   position: relative;
+right: 75px;
+font-size: 25px;
+
+}
+.fo-icons {
+    margin-right:-40px;
+}
+.small-img-container{
+    margin-top: 20px;
+}
+.copyright-p{
+    color: lightgray;
+    text-align: center;
+    margin-top: 20px;
+   
+}
+
+
+
+
