@@ -1,0 +1,21 @@
+.all-inputs{
+    width: 400px;
+    padding: 2px 4px;
+}
+form{
+    padding: 20px;
+    
+}
+.payment img{
+    width: 400px;
+    height: 300px;
+}
+.sec-2{
+    display: flex;
+    justify-content: space-around;
+    align-items: start;
+}
+.control{
+    display: flex;
+   
+}
